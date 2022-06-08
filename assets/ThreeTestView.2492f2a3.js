@@ -1,4 +1,4 @@
-import{as as dc,ay as fc,W as pc}from"./index.9b9323d5.js";/**
+import{as as dc,ay as fc,W as pc}from"./index.809b8f44.js";/**
  * @license
  * Copyright 2010-2022 Three.js Authors
  * SPDX-License-Identifier: MIT
